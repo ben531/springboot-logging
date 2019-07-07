@@ -1,0 +1,4 @@
+logging:
+  file: d:/logs/springboot-logging.log
+  level:
+    com.example.demo: debug
